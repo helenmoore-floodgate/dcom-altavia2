@@ -1,0 +1,46 @@
+{
+  "day": 5,
+  "coffee": "Rifugio Contrin (2,016 m), at the head of Val Contrin beneath the Marmolada south face",
+  "lunch": "Rifugio Fuciade (1,982 m), the famed gourmet hut in the Fuciade basin near the day's end",
+  "highlights": [
+    {
+      "t": "Marmolada south walls",
+      "place": "Val Contrin, beneath the Marmolada (3,343 m)",
+      "type": "valley",
+      "pos": 0.18,
+      "descr": "The day eases out of the Fedaia basin and curls south into Val Contrin, a long pastoral trough that runs straight toward the most monumental rock face in the Dolomites. The valley itself is a glacial trench, carved and smoothed by ice, and you climb it gently on a broad path from Penia, the forest of spruce and larch slowly thinning until the meadows open and the whole south wall of the Marmolada stands revealed ahead. Underfoot is grazing pasture and wildflower turf; above it rises a sweep of sheer grey rock catching the morning light. The contrast — soft green valley floor, pale vertical wall — is one of the defining images of the western Dolomites.\n\nThe Marmolada (Ladin: Marmolèda; German: Marmolata) is the highest massif in the range, crowned by Punta Penia at 3,343 m, with Punta Rocca (3,309 m), Punta Ombretta (3,230 m) and Monte Serauta strung along its summit ridge. It is universally known as the \"Queen of the Dolomites,\" and it is geologically a renegade among them: where most Dolomite peaks are built of the magnesium-rich rock called dolomite, the Marmolada is a great mass of pale limestone of coral origin. Some 250 million years ago, in the Triassic, this was a living reef growing in a warm tropical sea, an island of organic rock in an archipelago later buried by volcanic ash from nearby submarine eruptions. That history is why the Dolomites — the Marmolada included — were inscribed as a UNESCO World Heritage Site in 2009 for their exceptional geology and beauty.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Colac%20versante%20est%20,vista%20sulla%20val%20Contrin%20e%20la%20mitica%20parete%20sud%20-%20panoramio.jpg"
+    },
+    {
+      "t": "Coffee at Rifugio Contrin",
+      "place": "Rifugio Contrin (2,016 m)",
+      "type": "coffee",
+      "pos": 0.32,
+      "descr": "Set at the head of Val Contrin at 2,016 m, directly under the Marmolada's south face, Rifugio Contrin is the classic coffee stop of the stage and one of the most historic huts in the Fassa Dolomites. It sits in a wide green amphitheatre where the dirt road up from Alba and Penia gives way to footpath — the last comfortable refuge before the long climb to the scree pass. The terrace faces back down the valley and up at the wall of rock that has framed the whole morning, so pause here for a cappuccino in the sun and let the scale of the place sink in.\n\nThe hut's story runs straight through the turbulent history of these borderlands. In 1896 the Nuremberg section of the German and Austrian Alpine Club (DÖAV) bought land from the municipality of Pozza di Fassa to build a shelter at the head of the valley, and the Contrinhaus was inaugurated on 28 July 1897. Back then this was Austro-Hungarian territory, and German and Austrian club sections built many of the grand huts in the region. The building did not survive the war that followed."
+    },
+    {
+      "t": "Scree headwall to Cirelle",
+      "place": "Passo delle Cirelle (2,683 m)",
+      "type": "pass",
+      "pos": 0.55,
+      "descr": "From Contrin the trail leaves the meadows behind and grinds up the Val de Cirelle, a steep, stony cirque tucked between the Marmolada group and the dark bulk of the Sasso Vernale (3,054 m). It is roughly a 660-metre climb to the day's high point, and the upper section is a slog up loose scree, the kind of two-steps-up-one-step-back ground that the Dolomites do so well. Snow patches often linger in the hollows here well into summer, and the path is faint in places across the rubble, so it pays to follow the waymarks carefully.\n\nPasso delle Cirelle, at 2,683 m (some maps give 2,684 m), is a stark notch slotted into the ridge — a true col, hemmed by grey scree and broken rock with the Sasso Vernale rising sharply on one side. There is nothing soft about it: this is the austere, mineral heart of the day, the pale Triassic rock of the Dolomites stripped bare of vegetation. After the green of Val Contrin it feels like stepping into a different world, all stone and sky.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dal%20Passo%20delle%20Cirelle%20-%20panoramio.jpg"
+    },
+    {
+      "t": "The Fuciade basin",
+      "place": "Fuciade basin, beneath Passo San Pellegrino",
+      "type": "meadow",
+      "pos": 0.8,
+      "descr": "The descent zig-zags down good scree and rock from the Cirelle notch into one of the loveliest amphitheatres on the whole high route: the Fuciade basin, a broad sweep of flower meadows, larch trees and old timber hay barns ringed by the jagged crests of the Costabella and the Cime di Fuciade. After the severe grey of the pass the green of the pastures is almost startling — a hanging valley that has been worked as alpine summer pasture for centuries, and still is, with cattle and horses grazing the slopes and farmers cutting hay in late summer. It is the kind of pastoral, cared-for landscape that gives the Dolomites their particular gentleness amid all the rock.\n\nThe basin sits just below Passo San Pellegrino, and its scattered tabià — the dark larch hay barns of the Ladin valleys — are part of what makes it so photogenic. The Ladin culture is old here: the people of Val di Fassa speak Ladin, a Rhaeto-Romance language descended from Latin, and the place names you have been walking past (Marmolèda, Fuciade, Contrin) carry that heritage. The light through the larches, especially in the slanting afternoon sun or in autumn when the needles turn gold, is the reason photographers come back to this spot again and again.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Fuciade%20-%20panoramio.jpg"
+    },
+    {
+      "t": "Gourmet lunch at Fuciade",
+      "place": "Rifugio Fuciade (1,982 m)",
+      "type": "lunch",
+      "pos": 0.9,
+      "descr": "Tucked among the meadows below Passo San Pellegrino, at around 1,982 m, Rifugio Fuciade is the celebrated gourmet hut of the Dolomites — a cluster of dark timber buildings famed for refined mountain cooking that reaches far beyond the usual hearty hut fare. It is the natural lunch stop near the end of the stage, and a place worth lingering in, with the Costabella ridge and the Cime di Fuciade rising directly behind and the meadows rolling away in front. After a day of scree and sky, arriving at a table here feels like a small reward earned the hard way.\n\nThe hut's character grows straight out of this landscape. In the 1960s an old hay barn in the basin was converted into a simple lodge, and over the following decades the Rossi family — Sergio and Emanuela, and now their son Martino in the kitchen — turned it into one of the most beloved tables in the mountains. The cooking is rooted in the Ladin tradition of Val di Fassa, \"simple and refined,\" built on local products: a generous home-made breakfast buffet with pastries from the hut's own patisserie, and lunches and dinners that have earned recognition in the major gastronomic guides. There is also a remarkably deep cellar — several hundred labels — which is not something you expect at the end of a mountain pass.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Herbst%20in%20den%20Dolomiten%20-%20Dolomites%20UNESCO%20-%20Rifugio%20Fuciade%20-%20Flickr%20-%20PHOTOGRAPHY%20Toporowski.jpg"
+    }
+  ]
+}

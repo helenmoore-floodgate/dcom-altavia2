@@ -1,0 +1,47 @@
+{
+  "day": 1,
+  "coffee": "Plosehütte (Rifugio Plose, 2,447 m) is the day's main coffee — a CAI hut right at the top of the gondola with an espresso bar and a sun terrace. A short way along, the family-run Schatzerhütte (1,984 m) also does coffee, cake and speck platters.",
+  "lunch": "Halslhütte (1,866 m) — the family hut at the Würzjoch pass road, today's end point; warm kitchen all afternoon",
+  "highlights": [
+    {
+      "t": "Plose gondola top start",
+      "place": "Plose / Kreuztal-Valcroce (2,050 m)",
+      "type": "scenery",
+      "pos": 0,
+      "descr": "The classic curtain-raiser of the Alta Via 2. From Brixen — Bressanone in Italian, the oldest town in Tyrol and the gateway to the whole high route — the Plose cabinovia, a six-seater gondola running since 1985, lifts you up the wooded eastern flank of the city's local mountain to the Kreuztal-Valcroce station at about 2,050 m. The Plose massif itself is not yet true Dolomite; it sits in the Lüsen (Lüsner) range and is built of older, gentler rock, which is exactly why its summits — the Gabler (2,576 m), the Pfannspitze (2,547 m) and the Telegraph (2,486 m) — roll up in grassy, rounded domes rather than the sheer pale towers you have come to see. That contrast is the point: the Plose is the green grandstand from which the real Dolomites are revealed.\n\nThe gondola is a deliberate piece of trail kindness. The original AV2 began far below in the Eisack (Isarco) valley and ground its way up more than 1,500 vertical metres of forest before the views even started; the lift dissolves nearly all of that brutal first-day climb and deposits you, in minutes, already at the altitude where the meadows open and the air turns thin and bright. Step out of the cabin and the whole northern rampart of the Dolomites swings into view across alpine pasture grazed by cattle whose bells you will hear long before the cars in the valley fade.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Plose%2C%20Ski%20Resort%20in%20South%20Tirol%2C%20Italy%20-%20panoramio.jpg"
+    },
+    {
+      "t": "Rifugio Plose panorama",
+      "place": "Plosehütte / Rifugio Città di Bressanone (2,447 m)",
+      "type": "hut",
+      "pos": 0.18,
+      "descr": "A short climb up the broad trail from the gondola gains the Plosehütte — Rifugio Città di Bressanone alla Plose in Italian — a handsome stone refuge perched at about 2,447 m near the Telegraph summit, just below the high point of the Plose. This is the true trailhead of the Alta Via 2, the \"Dolomite High Route of the Legends,\" the point from which the long traverse to Feltre officially begins, and it is one of the great panoramic terraces of South Tyrol.\n\nThe hut is genuinely old, one of the venerable refuges of the eastern Alps. The decision to build it was taken in 1884 by the Brixen/Bressanone section of the German and Austrian Alpine Club (DÖAV); construction by volunteers began in May 1887, and it was inaugurated with a grand ceremony on 7 November 1887, with a first enlargement following as early as 1907. Its name tells the rest of the South Tyrolean story: after the First World War, when this German-speaking land was annexed to Italy, the hut was confiscated during the Fascist period and in 1923 handed to the Italian Alpine Club (CAI) of Bressanone, which took over its management the following year and runs it to this day. That tangle of two names and two clubs on a single building is the human history of the whole region in miniature.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Plosehütte.jpg"
+    },
+    {
+      "t": "Coffee at the Schatzerhütte",
+      "place": "Schatzerhütte (1,984 m)",
+      "type": "coffee",
+      "pos": 0.35,
+      "descr": "A short way along the Plose traverse, the family-run Schatzerhütte makes a relaxed early stop — coffee and cake, or a speck platter if you fancy an early lunch (warm kitchen ~12:00–16:00). It sits just off the high line, an easy few minutes away.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Aferer%20Geisler%2003.jpg"
+    },
+    {
+      "t": "First sight of Sass de Putia",
+      "place": "Peitlerkofel / Sass de Putia (2,875 m)",
+      "type": "summit",
+      "pos": 0.72,
+      "descr": "As the trail curls south toward the Würzjoch, the Peitlerkofel rears up alone against the sky, and you understand at once why it has been a landmark for centuries. Standing apart from every neighbouring massif, its pale dolomite walls climb to 2,875 m at the Großer Peitler, with a second summit, the Kleiner Peitler (2,813 m), set off across a deep notch in the ridge. It is the most recognisable peak of the northern Dolomites — a lone, fortress-like tower rising straight out of green pasture — and a mountain you will circle, photograph and orient yourself by for the first days of the AV2.\n\nThe mountain wears three names, the trilingual signature of this corner of South Tyrol where German, Italian and the ancient Ladin language all live side by side: Peitlerkofel in German, Sass de Putia in Italian, and Sas de Pütia in Ladin (sas simply meaning \"stone\" or \"rock\" in Ladin, the Rhaeto-Romance tongue still spoken in the surrounding valleys). It rises on the watershed between Val Badia to the east and the Villnöss/Funes valley to the west, at the far northern edge of the Puez-Geisler (Puez-Odle) Nature Park — the protected wild heart you are now entering.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sass%20de%20Putia%20Peitler%20Kofel%20dal%20Börz.jpg"
+    },
+    {
+      "t": "Sunlit drop to the family hut",
+      "place": "Halslhütte (1,866 m), Würzjoch / Passo delle Erbe",
+      "type": "hut",
+      "pos": 1,
+      "descr": "An easy, sunlit descent on trail no. 8A brings the day to a gentle close at the Halslhütte, a cheerful family inn at about 1,866 m on the Würzjoch — Passo delle Erbe in Italian, the \"pass of the herbs\" — a high road col set directly at the foot of the Peitlerkofel. After the long traverse from the Plose, the trail simply tips down through meadow and larch to the pass, and the hut appears with the great pale tower of the Peitlerkofel filling the sky behind it: an easy, generous first day's end.\n\nThe Würzjoch itself is a place of some character. At roughly 2,000 m it links the Villnöss/Funes valley with Val Badia, carrying a quiet mountain road over the saddle, and its name — pass of herbs — points to the rich alpine flora of these limestone-edged meadows. This is the very col of the witch legends that haunt the Peitlerkofel: the spot where, in local tradition, the storms were brewed on full-moon nights, and where the Ladin Bal dles Stries festival is staged each July. Standing here at dusk, with the tower above going from grey to rose, it is not hard to feel why a mountain like this gathered so many stories.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/WürzjochPeitler.JPG"
+    }
+  ]
+}

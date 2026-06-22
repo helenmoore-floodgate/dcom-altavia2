@@ -1,0 +1,46 @@
+{
+  "day": 9,
+  "coffee": "Rifugio Treviso (1,631 m) — the only manned hut on the climb, right at the start in the Val Canali larches. A coffee and its famous hot sandwich here before the haul up to Forcella d'Oltro.",
+  "lunch": "Rifugio Cereda at Passo Cereda (1,369 m) — the real lunch, a proper family restaurant at the end of the stage. Nothing in between over Forcella d'Oltro, so carry a snack for the middle.",
+  "highlights": [
+    {
+      "t": "Coffee at Rifugio Treviso",
+      "place": "Rifugio Treviso (1,631 m), Val Canali",
+      "type": "coffee",
+      "pos": 0.02,
+      "descr": "Right at the start of the day in the Val Canali larches, Rifugio Treviso is the only manned hut on the climb — run by a guide's family, and locally famous for its hot sandwiches. Coffee and a bite here before the long pull up to Forcella d'Oltro.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rifugio_Treviso,_1630_m.jpg"
+    },
+    {
+      "t": "Over Forcella d'Oltro",
+      "place": "Forcella d'Oltro (2,094 m)",
+      "type": "pass",
+      "pos": 0.62,
+      "descr": "Above the hut the route settles into the long climb of the day. Path 718 leads first in gentle undulations through forest to the open clearing of Campigol d'Oltro — campigol is the local word for a small upland meadow — and from there the real work begins: roughly two hours of small, patient switchbacks up increasingly rocky, steepening slopes. Forcella means a saddle or notch, and the Forcella d'Oltro at 2,094 m is the slot you are aiming for, wedged between Cima d'Oltro on one side and the jagged Caldrólon peaks on the other. The final pitch up to the gap is notably steep; the saddle, when you reach it, is the high point of the whole stage.\n\nThis notch is the watershed of the day in more than one sense. Behind you to the north spreads the southern rampart of the Pale di San Martino, the massif you have been crossing for days. From the forcella the view back is the grand farewell: rank upon rank of pale dolomite towers, the same fossil-reef rock that builds the great summits at the heart of the range — Cima Vezzana at 3,192 m, the highest of the group, and its more famous neighbour Cimon della Pala, the slender horn long nicknamed the \"Matterhorn of the Dolomites.\" Up on the hidden roof of that massif lies the Altopiano delle Pale, a 50-square-kilometre stone desert between 2,500 and 2,700 m, an almost lunar plateau of bare rock that few ranges in the Alps can match. From this saddle you are looking at the outer edge of all of it, one last time.",
+      "photo": null
+    },
+    {
+      "t": "First sight of Sass de Mura",
+      "place": "Sass de Mura (2,547 m), Cimónega group",
+      "type": "scenery",
+      "pos": 0.72,
+      "descr": "Stepping through the notch swings the entire horizon around. Where the climb showed you the Pale at your back, the far side of the Forcella d'Oltro opens a completely new panorama to the south and east: out over the Cimónega group, down toward the valleys of the Mis and the Agordino, and across to the rugged country of the Vette Feltrine — the wild, lesser-known Dolomites that the closing stages of the Alta Via 2 will cross on the way to Feltre.\n\nThe eye is drawn at once to one great tower. Sass de Mura, 2,547 m, is the highest summit of the Cimónega group, a blunt, powerful peak that anchors this whole quarter of the range. Beside it stands the slimmer blade of Piz di Sagron, the group's second summit, just over a kilometre to the north. Sass de Mura is a serious mountain in its own right: it carries an impressive prominence of nearly 1,180 m, meaning it rises almost that far above the lowest saddle connecting it to anything higher, which is why it dominates the view so completely from here. It sits squarely on the boundary between the provinces of Trentino and Belluno, and its slopes shed water in two directions — west toward the Cismon, east toward the Piave.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/SassDeMura.jpg"
+    },
+    {
+      "t": "Lunch at Rifugio Cereda",
+      "place": "Rifugio Cereda, Passo Cereda (1,369 m)",
+      "type": "lunch",
+      "pos": 0.98,
+      "descr": "The stage ends at Passo Cereda, where Rifugio Cereda runs a proper restaurant year-round — Primiero cooking from the family farm. This is the reliable hot meal of the day; there's no staffed hut over the Forcella d'Oltro crossing in between, so it's snacks until here."
+    },
+    {
+      "t": "Down to Passo Cereda",
+      "place": "Passo Cereda (1,369 m)",
+      "type": "hut",
+      "pos": 1,
+      "descr": "From the forcella the trail drops hard, plunging into a gully and dropping back below the tree line. It then undulates over a mix of grassy and rocky terrain along the orographic-left side of Val Canali — the left bank as you face downstream — before the gradient finally relents and the path spills out into the broad grassy meadow of Passo Cereda at 1,369 m, the day's end.\n\nPasso Cereda is a true Alpine col, a saddle that has long linked the Primiero valley with the Mis valley and the road on toward Agordo and the Cordevole. To its north stand the Pale di San Martino, the massif you have just crossed; to its south rises the Cimónega group, the country you are about to enter. The pass is reached by the provincial road that climbs over from Primiero, which is part of its charm and its practicality: after days on the high mountain you arrive somewhere with a road, a saddle of open pasture, and a roof.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Passo_Cereda_01.jpg"
+    }
+  ]
+}

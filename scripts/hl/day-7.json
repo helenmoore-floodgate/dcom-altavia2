@@ -1,0 +1,55 @@
+{
+  "day": 7,
+  "coffee": "Rifugio Mulaz (Rifugio Giuseppe Volpi al Mulaz, 2,571 m) — last coffee before the climb; there is no hut between here and Rosetta",
+  "lunch": "Rifugio Rosetta (Rifugio Giovanni Pedrotti alla Rosetta, 2,581 m) — late lunch on arrival across the plateau; no mid-route hut exists on this stage",
+  "highlights": [
+    {
+      "t": "Coffee at Rifugio Mulaz",
+      "place": "Rifugio Giuseppe Volpi al Mulaz, 2,571 m",
+      "type": "coffee",
+      "pos": 0,
+      "descr": "Your day begins with a coffee on the terrace of the Rifugio Giuseppe Volpi di Misurata al Mulaz, perched at 2,571 metres at the Passo del Mulaz, at the head of the Val Focobon in the municipality of Falcade. Above you rise the dark walls of Monte Mulaz (2,906 m), the tenth-highest summit of the entire Pale di San Martino group, and beyond it the spires of the Focobon. This is a serious place to start a serious day: there is no hut, no spring, no shelter of any kind between this terrace and Rifugio Rosetta, so it is here that you fill water, check your harness, and take a last warm drink before committing to the highest and most exposed crossing of the whole Alta Via 2.\n\nThe hut has real history. It was built in 1907 on the initiative of the Venice section of the Club Alpino Italiano (CAI), with land and timber granted by the Municipality of Falcade and the work overseen by the builder Emanuele Murer; it was inaugurated on 10 September 1907, and for the occasion local people from neighbouring Trentino built the approach path from the Passo Rolle. It is dedicated to Giuseppe Volpi, Count of Misurata (1877–1947), the Venetian industrialist and politician who founded the Venice Film Festival, presided over the Venice Biennale, and led Italy's industrialists' association, Confindustria. The building was restored in 1959–60 by friends of the Volpi family and rededicated to his memory, which is why you will see both \"Volpi\" and \"al Mulaz\" on the signs.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/RifugioMulaz.jpg"
+    },
+    {
+      "t": "Passo delle Farangole",
+      "place": "Passo delle Farangole, 2,814 m",
+      "type": "pass",
+      "pos": 0.32,
+      "descr": "From the hut, path 703 — the Sentiero delle Farangole — climbs steeply to the notch of the Forcella Margherita and then up a cable- and ladder-equipped via ferrata to the Passo delle Farangole, at roughly 2,814 metres. This is the highest point of the entire Alta Via 2, and the section over the pass is widely regarded as the single most demanding passage on the route: the stage from Rifugio Mulaz to Rifugio Rosetta is graded around 3+, the top of the scale for the trek. You are crossing the roof of the whole 160-plus-kilometre traverse here, and the few hundred metres around the saddle are what you will remember.\n\nThe character of the climb is what makes it serious rather than merely high. The final approach to the pass alternates a loose, gravelly, slippery gully — the kind of ground that slides under your boots and demands patient, deliberate footwork — with stretches of secured rock: steel cables, iron rungs, and short ladders bolted to the cliff. It is steep, narrow, and genuinely exposed, with real drop beneath your feet, so a via ferrata set (harness, lanyards, helmet) and a steady head for heights are essential. In early summer the gully often holds hard old snow, which can make the passage trickier and is one reason this crossing is best left until the trail is clear, usually from mid-July onward.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cima_del_Focobon.jpg"
+    },
+    {
+      "t": "Focobon walls up close",
+      "place": "Cima del Focobon, 3,054 m",
+      "type": "scenery",
+      "pos": 0.45,
+      "descr": "Dropping off the south side of the pass, the trail traverses beneath the north-west flank of the Cima del Focobon (3,054 m), the highest summit of the Focobon group and one of the great peaks of the Pale di San Martino, standing on the border between Trentino and the province of Belluno about five kilometres north-east of San Martino di Castrozza. From your path on the Sentiero delle Farangole this is the closest the Alta Via 2 ever brings you beneath these severe, rarely visited walls — sheer dolomite faces streaked with scree fans and snow-filled couloirs, rising more than a thousand metres above the valleys below.\n\nThe Focobon does not stand alone. Seen from the village of Falcade to the north, the Cima del Focobon, the Cima di Campido, and the Campanili dei Lastéi line up into a celebrated trio known as the \"Trinità del Focobon,\" the Trinity of Focobon — three pale, severe towers that are among the most photographed silhouettes of this part of the Dolomites. From close beneath them, on the trail, you lose that tidy postcard arrangement and gain something more visceral: the sheer, vertiginous scale of the rock directly overhead, and the sense of how remote and untrodden these summits are.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Focobon_S.JPG"
+    },
+    {
+      "t": "Valón de le Comèlle",
+      "place": "Vallón de le Comèlle (Valle delle Comelle)",
+      "type": "valley",
+      "pos": 0.6,
+      "descr": "Below the pass the path becomes a high, airy balcony — the classic stretch of the Sentiero delle Farangole — contouring along the western rock wall high above the wide green trench of the Vallón de le Comèlle (the Valle delle Comelle). After the bare rock and steel of the col, this is a softer, greener interlude: the trail threads ledges and grassy ramps, small springs and streams cross the path, and the deep U-shaped valley falls away beneath you toward the grassy basin of Pian dei Cantóni at its head. The Farangole route is well known for being unusually rich in water here, the streams flowing from the basins that hang above the valley.\n\nThe Comèlle is a textbook glacial valley, and reading it is part of the pleasure. During the last ice age the Pale plateau above held a great ice cap, and from it long tongues of glacier flowed outward and downward, grinding against the underlying rock and gouging the surrounding valleys ever deeper and steeper. The Valle delle Comelle is one of those excavated troughs — its broad, scooped profile, hanging side-valleys, and abrupt rock steps are all signatures of ice that vanished only a few thousand years ago. You are walking the rim of a valley that a glacier carved.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cima_del_Focobon_w.jpg"
+    },
+    {
+      "t": "The lunar Pale plateau",
+      "place": "Altopiano delle Pale di San Martino",
+      "type": "scenery",
+      "pos": 0.85,
+      "descr": "A final climb lifts you out of the green and onto the Altopiano delle Pale di San Martino, one of the largest and strangest high karst plateaus in the entire Alps. The change is abrupt and total. In moments the meadows are gone and you step into a vast, pale, almost colourless desert of cracked and pitted limestone, roughly fifty square kilometres of bare rock spread between about 2,500 and 2,800 metres, ringed by pale 3,000-metre summits. Walkers and writers have reached for the same word for more than a century: lunar. The Italian novelist Dino Buzzati, who knew these mountains intimately, made this otherworldly emptiness part of his imagination, and standing on it you understand why.\n\nGeologically, the plateau is the heart of the whole story. This pale tableland is the fossilised floor of a tropical reef and lagoon: in the Ladinian age of the Triassic, around 235 million years ago, corals, calcareous algae, and sponges built a great carbonate platform in the warm Tethys Sea, and the Altopiano is essentially the preserved inner lagoon of that ancient atoll, later lifted thousands of metres into the sky. The bare dolomite is now sculpted by karst processes — rainwater, faintly acidic, dissolves the limestone into fissures, runnels, and deep sinkholes (the \"busa\"), and the surface drains almost entirely underground, which is why it is so dry and so silent up here.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Altipiano_delle_pale_di_san_martino.JPG"
+    },
+    {
+      "t": "Lunch at Rifugio Rosetta",
+      "place": "Rifugio Giovanni Pedrotti alla Rosetta, 2,581 m",
+      "type": "hut",
+      "pos": 1,
+      "descr": "The stage ends, at last, at the Rifugio Giovanni Pedrotti alla Rosetta, standing alone at 2,581 metres in the middle of the stone plateau, just east of the Passo della Rosetta in the heart of the Paneveggio – Pale di San Martino Natural Park. After a long, remote, technical day with no shelter in between, the sight of it — a solid island of life on the empty Pale — is enormously welcome. Here is the late lunch, the night's bunk, and the simple relief of a roof; you have crossed the roof of the Alta Via 2 and walked the moonscape, and you have earned both.\n\nThe Rosetta is one of the oldest mountain huts of the SAT, the Società degli Alpinisti Tridentini (the Trentino climbers' society), first built in 1889 — a tiny single room with a sleeping platform, benches, a table, and a kitchen — and enlarged within a decade as alpinism took off in the Pale. Its history is also the history of these valleys' hard 20th century: the hut was badly damaged and burned during the First World War, and during the Second it was again set on fire, in reprisal by German troops. It was rebuilt afterwards, enlarged in 1931, and in 1952 reconstructed and dedicated to Giovanni Pedrotti, an irredentist, botanist, and president of the SAT in the 1920s. The building you walk into carries all of that behind its walls.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rifugio_Rosetta_SW.JPG"
+    }
+  ]
+}

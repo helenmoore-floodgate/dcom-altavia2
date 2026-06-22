@@ -1,0 +1,55 @@
+{
+  "day": 10,
+  "coffee": "Last espresso at Rifugio Cereda, right by Passo Cereda (1361 m), before the climb. After this there is no staffed hut until the very end of the stage — fill your flask and your thermos here.",
+  "lunch": "No mid-route hut exists on this wild stage — the Bivacco Feltre-Walter Bodo is an unstaffed bivouac with no service. Carry a packed lunch and eat it in the Cimonega basin; the first hot meal is waiting at Rifugio Boz (1718 m) at journey's end.",
+  "highlights": [
+    {
+      "t": "Coffee at Passo Cereda",
+      "place": "Rifugio Cereda, Passo Cereda (1361 m)",
+      "type": "coffee",
+      "pos": 0.02,
+      "descr": "Your day begins at Passo Cereda, a quiet road saddle slung at roughly 1361–1369 m between two very different mountain worlds: the sheer, pale battlements of the Pale di San Martino to the north, and the wilder, lonelier Gruppo del Cimonega to the south. The pass is crossed by the SS347 state road, which links Primiero San Martino di Castrozza in the Primiero valley with the tiny commune of Sagron Mis in the Mis valley. It is one of the lesser-known crossings of the Dolomites — you will not find the crowds of nearby San Martino di Castrozza here — and that quiet is exactly what makes it the right place to gather yourself before a serious day.\n\nThe pass is young, as inhabited places in the mountains go. This saddle was only really settled from the early 1900s, and the road over it was not kept open through winter until 1962. Rifugio Cereda sits just off the col and has welcomed walkers for more than sixty years; it is a recognised waypoint on the Alta Via 2 delle Dolomiti, the long high route from Bressanone (Brixen) in the German-speaking Alto Adige all the way to Feltre in the province of Belluno. Because of the rich folklore of the valleys it threads, the Alta Via 2 carries the nickname the Via delle Leggende, the 'Way of Legends.'",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Passo_Cereda_-_Dolomites,_Italy_-_2025.jpg"
+    },
+    {
+      "t": "Forcella Comedon — wild gateway",
+      "place": "Forcella Comedon (~2067 m)",
+      "type": "pass",
+      "pos": 0.42,
+      "descr": "From Passo Cereda the trail climbs steadily, then steeply, into the Comedon gorge — a long, narrowing rake of rock and scree that funnels you up toward the saddle. The upper section is where the day earns its reputation: the path stiffens into a steep, broken gully with stretches of fixed cable and easy scrambling on rock, terrain that rewards a steady head for heights and sure feet. It is not a hard technical via ferrata in the sense of the famous protected routes deeper in the range — there is no need for advanced climbing — but it is exposed, the ground is loose in places, and a slip would be serious. About three-quarters of the way up, a rocky outcrop opens out a wide view back down the valley, a natural spot to breathe and look at how far you have come.\n\nForcella Comedon (the saddle is often given at around 2067 m, with some guides quoting figures up to roughly 2200 m) is the true threshold of the whole stage. Behind you lies the populated, road-served Primiero side; ahead lies the empty rock-and-scree heart of the Parco Nazionale Dolomiti Bellunesi. Standing in this narrow notch you can feel the change — the noise of the valley falls away, and the country in front of you is wilder, quieter, and far less travelled. It is the kind of pass that marks a genuine boundary, not just on a map but in the character of the walk.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites_-_Alta_Via_2,_Stage_10-11_Rifugio_Passo_Cereda_to_Rifugio_B%C3%B2z_-_panoramio.jpg"
+    },
+    {
+      "t": "Into the Dolomiti Bellunesi",
+      "place": "Conca di Cimonega, Gruppo del Cimonega",
+      "type": "scenery",
+      "pos": 0.58,
+      "descr": "Beyond the forcella the path descends into the Conca di Cimonega — the great rocky basin that forms the wild, all-but-uninhabited core of the Parco Nazionale Dolomiti Bellunesi. This is the empty quarter of the Dolomites. The amphitheatre is ringed by the major summits of the Cimonega group: the dominating mass of Sass de Mura (2547 m), the highest peak of the Alpi Feltrine, together with Piz de Sagron, Piz de Mez, and the Comedon. The hollow itself sits at around 1600–1640 m, with the bivouac higher on its shoulder, and the whole place has the classic Dolomite look — steep pale walls springing straight out of broad fans of detrital scree.\n\nThe Cimonega makes up roughly two-thirds of the national park's territory, the remaining third belonging to the Schiara massif you will meet on later stages. The park was established in 1993 and lies entirely within the province of Belluno, hemmed in by the Cismon valley to the west, the Piave to the south, and the Maè to the east; like the peaks around you it forms part of the UNESCO World Heritage Dolomites. What makes this corner special is not a single famous landmark but its sheer emptiness: there are no villages, no roads, no cable cars, just rock, grass, water, and silence.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Gruppo_del_Cimonega_2017-10-15.jpg"
+    },
+    {
+      "t": "Bivacco Feltre-Walter Bodo",
+      "place": "Bivacco Feltre-Walter Bodo (1930 m)",
+      "type": "hut",
+      "pos": 0.62,
+      "descr": "Tucked into a rocky hollow high in the Cimonega basin stand the small metal boxes of the Bivacco Feltre-Walter Bodo. This is an unstaffed emergency bivouac, not a manned refuge: it offers bunks, blankets, and shelter, but no warden, no kitchen, and no service of any kind. There is no one here to sell you a meal or a bed — what it provides is something arguably more valuable in country this remote: a roof and four walls if the weather turns, and a place to rest in the middle of a very long, serviceless stage.\n\nThe site actually holds two structures, and their story is part of the history of the Feltre mountaineering community. The original Bivacco Feltre was a prefabricated hut of galvanised sheet metal, assembled by the Feltre section of the Club Alpino Italiano (CAI) in autumn 1958 and inaugurated on 5 July 1959; the older shell sleeps only a handful. Beside it, the larger and more comfortable Bivacco Walter Bodo was erected by CAI Feltre together with the local Alpini (the Feltre Alpine battalion) and inaugurated on 8 October 1972. It is named in memory of Walter Bodo, a much-respected president of the CAI Feltre section who died in March 1963 near the then-under-construction Rifugio Dal Piaz. Together the two give the site its full name and a modest but welcome capacity of bunks with blankets.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites_-_Alta_Via_2,_Stage_10-11_Rifugio_Passo_Cereda_to_Rifugio_B%C3%B2z_-_panoramio_(1).jpg"
+    },
+    {
+      "t": "Under Sass de Mura's walls",
+      "place": "Sass de Mura (2547 m)",
+      "type": "scenery",
+      "pos": 0.82,
+      "descr": "From the bivouac the route swings beneath the great walls of Sass de Mura, at 2547 m the highest peak of the Gruppo del Cimonega and of the wider Alpi (Vette) Feltrine, and one of the most striking rock summits in the southern Dolomites. The mountain stands squarely on the boundary between the provinces of Belluno (Veneto) and Trentino, about 20 km west of the city of Belluno, and it has the serious statistics to match its presence: a topographic prominence of more than 1100 m and a commanding isolation that lets it dominate everything around it. Its second-highest neighbour, Piz de Sagron, rises just over a kilometre to the north.\n\nLike all these peaks, Sass de Mura is built of Triassic dolomite — the Dolomia Principale laid down some 250 million years ago when this was a shallow tropical sea. The waters that run off its flanks part company here at the very roof of the massif: the western slopes drain toward the Cismon river, while the eastern slopes feed the Piave. The mountain sits within the UNESCO World Heritage Dolomiti Bellunesi, and from below its pale, fossil-bearing cliffs you are looking at an ancient seabed reared thousands of metres into the alpine sky.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/SassDeMura.jpg"
+    },
+    {
+      "t": "Arrival at Rifugio Boz",
+      "place": "Rifugio Bruno Boz (1718 m)",
+      "type": "hut",
+      "pos": 1,
+      "descr": "A short grassy descent from the Passo di Mura junction drops you into a beautiful hollow of alpine pasture on the south-west flank of Sass de Mura, in the territory of the commune of Cesiomaggiore, and there — at last — Rifugio Bruno Boz comes into view at 1718 m. After a stage with no service since the morning, the first sight of a staffed roof is a genuinely emotional moment: this is the first hot meal, the first cold beer, and the welcome end of what is widely reckoned the toughest and wildest day on the whole Alta Via 2.\n\nThe hut has a hand-built, grassroots history. It was raised between 1967 and 1970 on the ruins of the old Casera Nevetta, a former mountain dairy, by a group of volunteers coordinated by the Feltre section of the CAI, and it was inaugurated on 26 July 1970. Its first warden was Mario Scudelin, a true mountain man of the Val Canzoi. It belongs to the CAI Veneto / CAI Feltre and remains a working alpine refuge, owned and run in the cooperative spirit that built it. Over the decades its kitchen has grown from the simplest fare into proper, hearty mountain cooking — expect generous Dolomite hut classics such as polenta, soups, pasta, and local cured meats and cheeses, the kind of food that tastes twice as good after a day like this one.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites_-_Alta_Via_2,_Stage_10-11_Rifugio_Passo_Cereda_to_Rifugio_B%C3%B2z_-_panoramio_(4).jpg"
+    }
+  ]
+}

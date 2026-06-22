@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+*.log
+.preview/
+
+# offline-bundle build inputs (regenerated locally; the built offline.html is committed)
+scripts/.offline-imgs.json
+scripts/HankenGrotesk.ttf

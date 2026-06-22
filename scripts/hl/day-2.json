@@ -1,0 +1,55 @@
+{
+  "day": 2,
+  "coffee": "Rifugio Genova (Schlüterhütte), 2,306 m — reached early as you climb back onto the AV2 above the Halslhütte. The classic coffee-and-refuel before the long Puez plateau traverse, and the last hut until Rifugio Puez.",
+  "lunch": "No hut between Rifugio Genova and Rifugio Puez — carry lunch for the high traverse below the Sieles towers, then a warm kitchen waits at Rifugio Puez on arrival.",
+  "highlights": [
+    {
+      "t": "Sass de Putia above the start",
+      "place": "Sass de Putia / Peitlerkofel (2875 m)",
+      "type": "summit",
+      "pos": 0.08,
+      "descr": "The day opens in the shadow of the mountain that wears three names: Peitlerkofel to the German-speakers of Val di Funes, Sass de Putia to Italians, and Sas de Pütia to the Ladin people of Val Badia. That trilingual identity is no accident — the peak rises right on the linguistic frontier, just south of the Passo delle Erbe (Würzjoch, 2006 m), the saddle where the Ladin and German worlds meet. Standing apart from every other massif, this solitary two-headed bastion guards the northern edge of the Puez-Odle Nature Park, a protected area first established in 1978 and now covering more than 10,700 hectares within the Dolomites UNESCO World Heritage Site.\n\nThe summit you are looking at is really two summits. The higher Grosser Peitler reaches 2875 m, while the lower Kleiner Peitler tops out at 2813 m, the pair divided by a deep cleft in the skyline. From the meadows the great north face has the brooding, fortress-like profile that locals have long likened to a prehistoric sea monster heaved up out of the grass — a fitting image, because that is almost exactly what it is. Geologically, Sass de Putia is a textbook example of a Triassic carbonate platform: an isolated atoll-like reef built up over millions of years by corals, algae and other reef organisms in a warm, shallow tropical sea, later buried, dolomitised and finally lifted skyward. At its base, where the trail begins, you can read the planet's deeper history in the rock itself — bands of rust-red and pale grey in the Val Gardena (Gröden) sandstone, a Permian desert deposit roughly 250 million years old, laid down long before the reefs ever grew.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Peitlerkofel,%202875%20m.jpg"
+    },
+    {
+      "t": "Coffee at Rifugio Genova",
+      "place": "Rifugio Genova / Schlüterhütte (2306 m)",
+      "type": "coffee",
+      "pos": 0.18,
+      "descr": "Reached early, on the climb back onto the AV2 from the Halslhütte — the Schlüterhütte/Rifugio Genova is the morning coffee and refuel. It's the last staffed hut before the long, lonely Puez plateau, so top up here.",
+      "photo": null
+    },
+    {
+      "t": "Odle east faces",
+      "place": "Odle / Geisler group (Sass Rigais, 3025 m)",
+      "type": "scenery",
+      "pos": 0.45,
+      "descr": "As the path swings south below the range, the east faces of the Odle — the Geisler group to German-speakers, Geislerspitzen on the maps — rear up in a wall of near-vertical limestone spires that is among the most recognisable silhouettes in all the Dolomites. The name itself is perfect: \"Odle\" comes from the Ladin word for \"needles,\" and that is exactly what they look like, a row of pale stone needles standing on end. The whole chain, together with the neighbouring Puez group, forms the heart of the Puez-Odle Nature Park, hemmed in by the Val Badia, Val Gardena and Val di Funes.\n\nCrowning the wall are the twin high points of Sass Rigais and Furchetta, each reaching 3025 m — the loftiest summits you will see all day. Because of their high lime content these are sometimes called the \"White Mountains,\" and in the slanting late-morning light they glow almost luminously above the dark scree at their base. Sass Rigais was first climbed in 1878, by way of its west side, by Giorgio and Giovanni Bernard with Bruno Wagner and Eduard Niglutsch — early days in the exploration of these peaks.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Geislerspitzen%2002.jpg"
+    },
+    {
+      "t": "Lunch below the rock towers",
+      "place": "Traverse to Forces de Sieles (~2500 m)",
+      "type": "lunch",
+      "pos": 0.6,
+      "descr": "The high traverse toward Forces de Sieles threads a thin, rocky path across the flank of the massif at around 2500 m, weaving beneath a parade of crumbling rock towers. After climbing to the saddle of Fùrcia dla Roa (Forcella della Roa, about 2617 m), the route drops into a stony debris basin and then works its way back up toward the Sieles notch — a rhythm of cols and hollows rather than a single steady climb. It is exposed in the sense of being open and high, but the walking itself is not vertical, and stretches are protected here and there by short fixed cables where the ground steepens.\n\nA sheltered ledge among these spires makes the obvious lunch spot, and the position is hard to beat: the pale Puez peaks rise ahead, the great serrated wall of the Odle falls away behind you, and the whole sweep of the nature park spreads out below. This is the geological showcase of the Dolomites laid bare — the Odle side dominated by sharp dolomite needles, while the Puez ground in front of you carries younger, softer Jurassic and Cretaceous sediments whose reds, greys and greens you will notice once you reach the plateau.",
+      "photo": null
+    },
+    {
+      "t": "Cabled Sieles gully",
+      "place": "Forces de Sieles (2505 m)",
+      "type": "ferrata",
+      "pos": 0.78,
+      "descr": "The technical heart of the day is the climb to Forces de Sieles (Fórces de Siëles in Ladin), the rocky notch at 2505 m that breaches the rim of the Puez plateau. Here the trail rears up into a steep gully where the path has been carved into the rock and stiffened with metal cables. It is not a difficult or seriously exposed via ferrata — most fit hikers manage it with hands on the cable rather than a full kit — but it is the one place all day where you are genuinely scrambling on protected ground, hauling up a solid, well-built line of holds and steps to top out on the saddle.\n\nReach the notch and the landscape transforms in a single step: the climbing ends and the vast, pale Puez tableland opens directly in front of you, an abrupt and memorable reward for the effort. The col is the literal gateway between two worlds — the steep, broken terrain of the traverse below and the open, lunar high plain above.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Dolomites%20-%20Alta%20Via%202,%20Stage%2002-11%20Rifugio%20Genova%20to%20Rifugio%20Puez%20-%20panoramio%20(7).jpg"
+    },
+    {
+      "t": "The lunar Puez plateau",
+      "place": "Munt de Puez plateau, Rifugio Puez (2475 m)",
+      "type": "hut",
+      "pos": 1,
+      "descr": "Beyond the gully the world flattens out into the vast, pale Puez plateau, a high desert of bare, weathered limestone and dolomite that feels genuinely lunar after the sharp peaks of the morning. This tableland is one of the most geologically important places in the entire Dolomites: nowhere else can you see the complete stratigraphic sequence of the range, from the Permian right up to the Cretaceous, stacked in a single landscape. The oldest layers, around 200 million years old, record a time when these mountains were tropical coral reefs and lagoons beneath a warm sea; younger Jurassic and Cretaceous sediments above them streak the ground in unexpected reds, greys and greens, quite unlike the uniform pale rock elsewhere. Geologists prize the plateau for its fossils too — ammonites, bivalves and echinoderms turn up in its beds, the petrified census of that vanished ocean.\n\nThe trail crosses the grassy hollow of Munt de Puez and then the eerie rock desert, where erosion, old glaciers and landslides have scoured the surface into a pavement of weathered slabs. It is a strange, silent, wide-open place, the kind of terrain that makes you feel very small, and it is a striking contrast to the vertical drama of the Odle that you photographed only a couple of hours earlier.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Puezh%C3%BCtte,%202475%20m.jpg"
+    }
+  ]
+}

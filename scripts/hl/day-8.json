@@ -1,0 +1,47 @@
+{
+  "day": 8,
+  "coffee": "Rifugio Pradidali (2,278 m), on the terrace below Passo di Ball",
+  "lunch": "Rifugio Pradidali (2,278 m), the classic mid-day stop before the long descent",
+  "highlights": [
+    {
+      "t": "Cabled climb to Passo di Ball",
+      "place": "Passo di Ball (2,443 m)",
+      "type": "ferrata",
+      "pos": 0.28,
+      "descr": "You leave Rifugio Rosetta and drop south on Path 702, switchbacking down the western slopes below the Croda di Roda and the rim of the great stony plateau, the Altopiano delle Pale, that crowns this whole massif. Where the trail forks you peel off onto Path 715, which stops losing height and instead contours across a photogenic grassy shoulder near Col delle Fede, holding its line beneath pale walls and giving long views back over the lunar tableland you have just left. After this gentle traverse the ground steepens and the day's one protected section begins: the first steel cables appear, pinned to slabby, exposed rock, and you pull up a series of narrow ledges and steps to gain the notch of Passo di Ball at 2,443 metres, the high point of the entire stage.\n\nAs via ferrata goes this is at the very easy end of the scale, really an exposed cabled path rather than a true 'iron way'. If you are surefooted and comfortable on rock you can manage it without a kit, but a harness and lanyard do no harm and are reassuring on the airy steps, and anyone uneasy with height will be glad the cable is there to clip or grip. From the top station of the Rosetta cableway the pass is reached in roughly an hour and three-quarters; on the Alta Via 2 you arrive having already walked down from Rosetta, so take the pass slowly and savour it, because the panorama from the saddle, straddling two valleys, is one of the finest on the route.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Passo_di_Ball,_Pale_di_San_Martino.jpg"
+    },
+    {
+      "t": "Lago di Pradidali",
+      "place": "Lago di Pradidali (2,241 m)",
+      "type": "lake",
+      "pos": 0.42,
+      "descr": "Just below the southern lip of Passo di Ball, Path 715 picks its way down loose, slabby ground into the rocky cirque that cradles the little Lago di Pradidali. Set at roughly 2,240 metres in a basin scooped by long-vanished ice beneath Cima Pradidali and the soaring wall of Cima Canali, it is a small, shallow tarn fed by snowmelt rather than by any large stream, so its level and even its presence shift with the season: brimming and mirror-still in early summer when the high snows are melting, it can shrink markedly by late summer in a dry year. On a calm morning its surface holds a near-perfect reflection of the surrounding spires, and it is the last touch of blue and green before you reach the hut.\n\nThe lake is a textbook piece of glacial architecture. The whole Pale di San Martino group was buried and sculpted by glaciers during the Ice Ages, and the small Fradusta glacier still survives higher up on the plateau; meltwater and the gouging of ice left these rock-rimmed hollows where water now gathers. Because the catchment is almost entirely bare dolomite, the water is exceptionally clear and takes on emerald and turquoise tints in bright light, the pale rock floor showing through. There is little vegetation right at the shore at this altitude, but watch the slabs and screes around you for alpine choughs wheeling overhead, the whistle of marmots, and in good conditions chamois picking across the higher ledges.",
+      "photo": null
+    },
+    {
+      "t": "Coffee and lunch at Pradidali",
+      "place": "Rifugio Pradidali (2,278 m)",
+      "type": "lunch",
+      "pos": 0.45,
+      "descr": "Twenty easy minutes below the pass sits Rifugio Pradidali, a welcoming stone hut perched at 2,278 metres in the very heart of the Pale di San Martino. It stands in one of the most spectacular natural amphitheatres in the Dolomites, ringed by an audience of great walls and towers: Cima Canali, Sass Maor, Cima Pradidali, Cima di Ball and, further off, the spire of Pala di San Martino. Climbers know this place intimately, because some of the most celebrated rock routes in the range start within minutes of the door, but for a walker on the Alta Via 2 it is simply the classic coffee-and-lunch stop of the whole stage.\n\nThe hut has a real history. It was built in 1896 by the Dresden section of the German and Austrian Alpine Club (DOAV), enlarged in 1912, and after the First World War redrew the map of these mountains it passed to the Treviso branch of the Italian Alpine Club (CAI), which still owns and runs it today. A thorough renovation in 1959 lifted its capacity from a modest 15 bunks to 64 beds, and a further overhaul in 2004 added a small winter shelter. That arc, from a Saxon climbers' base to an Italian CAI refuge, mirrors the whole twentieth-century story of the Dolomites, where the front line of the First World War once ran through these ranges and the modern Italian–Austrian border was redrawn in the valleys below.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pale-RifPradidali.jpg"
+    },
+    {
+      "t": "Under the wall of Sass Maor",
+      "place": "Sass Maor (2,814 m)",
+      "type": "summit",
+      "pos": 0.72,
+      "descr": "Leaving the hut, the route follows Path 709 down the long, knee-testing groove of Val Pradidali, and almost at once the valley is dominated by one extraordinary mountain. Sass Maor rises to 2,814 metres as a near-vertical pillar of pale dolomite, and its enormous east face plunges fully a thousand metres in a single sweep, one of the great rock walls of the Dolomites. The name comes straight from the local Ladin tongue and means, fittingly, 'great stone' or 'big rock'; once you stand beneath it the name needs no explanation. From the trail the peak is an unmistakable landmark, a slim, soaring tooth that seems to lean over the valley and watch you all the way down.\n\nGeologically Sass Maor is built of the same Triassic dolomite as the rest of the massif, rock laid down as reef and lagoon sediment in a tropical sea more than 230 million years ago and later heaved skyward. Its statistics are dramatic: a topographic prominence of about 391 metres, and a relief of some 1,700 metres above the Cismon river in barely two and a half horizontal kilometres, which is what gives the face its sheer, vertiginous character. The summit was first reached on 4 September 1875 by Henry Awdry Beachcroft and Charles Comyns Tucker with the guides François Devouassoud and Battista Della Santa, climbing via the gap between Sass Maor and the neighbouring Cima della Madonna, in the heroic early decades of Dolomite mountaineering.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Sass_Maor.jpg"
+    },
+    {
+      "t": "Into green Val Canali",
+      "place": "Val Canali",
+      "type": "valley",
+      "pos": 0.95,
+      "descr": "Below the harsh, rocky upper valley the trail finally spills into Val Canali, and the whole character of the day changes. Often called one of the greenest and most beautiful valleys in the Alps, Val Canali forms the southern gateway into the Pale di San Martino, and it lies within the Paneveggio–Pale di San Martino Nature Park, the protected heart of this corner of the UNESCO Dolomites. After a long day among bare pale walls, the sudden softness of forest and pasture is a genuine relief, and the contrast, sheer white towers rising straight out of deep-green meadow, is exactly what makes this valley so loved.\n\nThe scenery here also tells a geological story in two colours. The towering peaks that close off the head of the valley, Cima Canali at around 2,900 metres, a wall so grand that climbers nickname it a 'rock cathedral', along with Sasso delle Lede and their neighbours, are built of pale dolomite, the reef rock of the ancient Tethys Sea. Lower down and to the south, by contrast, the underlying rock shifts to dark reddish-purple porphyry, a volcanic stone akin to granite, and that change from carbonate to volcanic bedrock is part of why the valley floor is so much greener and more fertile than the stony plateau you started from this morning.",
+      "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pale_ValPradidali.jpg"
+    }
+  ]
+}
